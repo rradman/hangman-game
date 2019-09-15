@@ -1,0 +1,5 @@
+pogodio sve:		nova_igra();
+pogodio slovo:  	prikazi_slovo();
+promasaj: 			crtaj();
+gotova igra:		game_over();
+
